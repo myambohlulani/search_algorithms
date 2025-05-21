@@ -1,3 +1,7 @@
+// Binary Search recursively
+// Myambo Hlulani
+// 21 May 2025
+
 public class BinarySearch {
     public static int binarySearch(int[] array, int target, int left, int right) {
         int middle = (left + right) / 2;
