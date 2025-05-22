@@ -1,7 +1,7 @@
 # implementation of binary_search using recursion
 # Hlulani Myambo
 # 20 May 2025
-# time complexity -> O(logn)
+# time complexity -> O(log n)
 
 def binary_search(array: list[int], target: int, left_pointer: int, right_pointer:int) -> int:
     middle_index = (left_pointer + right_pointer) // 2
