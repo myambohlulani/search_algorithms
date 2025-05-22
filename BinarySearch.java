@@ -1,6 +1,7 @@
 // Binary Search recursively
 // Myambo Hlulani
 // 21 May 2025
+// time-complexity -> O(logn)
 
 public class BinarySearch {
     public static int binarySearch(int[] array, int target, int left_pointer, int right_pointer) {
