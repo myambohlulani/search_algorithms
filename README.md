@@ -6,4 +6,6 @@ coming soon!
 
 # Python Search Algorithms
 
-coming soon!
+Binary Search
+Linear Search
+DFS and BFS coming soon!
