@@ -2,7 +2,11 @@
 
 # Java Search Algorithms
 
-coming soon!
+Linear Search
+
+Binary Search
+
+Interpolation Search
 
 # Python Search Algorithms
 
